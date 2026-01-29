@@ -1,5 +1,10 @@
 # ai-animation
 
+[![npm version](https://img.shields.io/npm/v/ai-animation.svg)](https://www.npmjs.com/package/ai-animation)
+[![npm downloads](https://img.shields.io/npm/dm/ai-animation.svg)](https://www.npmjs.com/package/ai-animation)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate CSS and Framer Motion animations from plain English.
 
 ## Install
