@@ -1,5 +1,5 @@
 {
-  "name": "ai-animation",
+  "name": "@lxgicstudios/ai-animation",
   "version": "1.0.0",
   "description": "AI-powered CSS animation generator - create keyframes and Framer Motion configs with GPT",
   "main": "dist/index.js",
