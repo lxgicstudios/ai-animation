@@ -15,42 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
     "animation",
-    "anthropic",
-    "automation",
-    "claude",
-    "cli",
     "css",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "framer-motion",
-    "generative-ai",
     "javascript",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "seo",
-    "seo-2026",
+    "web",
     "typescript",
-    "web"
+    "AI-powered",
+    "AI-optimized",
+    "performance",
+    "optimization",
+    "seo",
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-animation#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-animation#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-animation"
+    "url": "https://github.com/lxgicstudios/ai-animation"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-animation/issues"
+    "url": "https://github.com/lxgicstudios/ai-animation/issues"
   },
   "funding": {
     "type": "github",
